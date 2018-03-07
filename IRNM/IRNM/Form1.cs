@@ -156,10 +156,12 @@ namespace IRNM
                         }
                         else if (rad_time.Checked == true)
                         {
+                            Thread.Sleep(1);
                             name = GetTimestamp() + ext;
                         }
                         else if (rad_ymdhmsf.Checked == true)
                         {
+                            Thread.Sleep(1);
                             name = DateTime.Now.ToString("yyyyMMddHHmmssfff") + ext;
                         }
                         else if (rad_user.Checked == true)

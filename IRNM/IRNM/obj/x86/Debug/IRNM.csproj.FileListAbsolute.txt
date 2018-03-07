@@ -5,3 +5,10 @@ C:\版本控制文件夹\ImageRename\IRNM\IRNM\obj\x86\Debug\IRNM.Properties.Res
 C:\版本控制文件夹\ImageRename\IRNM\IRNM\obj\x86\Debug\IRNM.csproj.GenerateResource.Cache
 C:\版本控制文件夹\ImageRename\IRNM\IRNM\obj\x86\Debug\IRNM.exe
 C:\版本控制文件夹\ImageRename\IRNM\IRNM\obj\x86\Debug\IRNM.pdb
+F:\版本控制文件夹\ImageRename\IRNM\IRNM\obj\x86\Debug\IRNM.exe
+F:\版本控制文件夹\ImageRename\IRNM\IRNM\obj\x86\Debug\IRNM.pdb
+F:\版本控制文件夹\ImageRename\IRNM\IRNM\bin\Debug\IRNM.exe
+F:\版本控制文件夹\ImageRename\IRNM\IRNM\bin\Debug\IRNM.pdb
+F:\版本控制文件夹\ImageRename\IRNM\IRNM\obj\x86\Debug\IRNM.Form1.resources
+F:\版本控制文件夹\ImageRename\IRNM\IRNM\obj\x86\Debug\IRNM.Properties.Resources.resources
+F:\版本控制文件夹\ImageRename\IRNM\IRNM\obj\x86\Debug\IRNM.csproj.GenerateResource.Cache
